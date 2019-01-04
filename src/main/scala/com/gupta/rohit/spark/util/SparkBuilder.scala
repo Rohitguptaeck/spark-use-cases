@@ -1,3 +1,5 @@
+package main.scala.com.gupta.rohit.spark.util
+
 import org.apache.spark.sql.SparkSession
 
 object SparkBuilder {
